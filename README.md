@@ -1,3 +1,5 @@
+![Project Screenshot](decoder-only_transformer.png)
+
 # 🧠 GPT from Scratch (Decoder-Only Transformer)
 
 ## 🚀 Overview
