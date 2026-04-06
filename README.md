@@ -1,4 +1,4 @@
-![Project Screenshot](decoder-only_transformer.png)
+![Image alt](https://github.com/mhassan-278/GPT-from-scratch/blob/main/decoder_only_transformer.png?raw=true)
 
 # 🧠 GPT from Scratch (Decoder-Only Transformer)
 
